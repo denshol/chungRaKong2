@@ -1,0 +1,25 @@
+# Git ignore 파일
+.android/
+.cache/
+.gradle/
+.idea/
+.vscode/
+node_modules/
+build/
+*.log
+.DS_Store
+.env
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+AppData/
+Documents/
+Local Settings/
+Cookies/
+Recent/
+SendTo/
+Templates/
+'시작 메뉴'/
